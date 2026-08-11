@@ -1,0 +1,46 @@
+personal_info:
+  name: "Seu Nome Completo"
+  title: "Sua Profissão / Cargo"
+  email: "seu.email@exemplo.com"
+  phone: "(00) 00000-0000"
+  linkedin: "https://linkedin.com/in/seu-usuario"
+  github: "https://github.com/seu-usuario"
+  location: "Cidade, Estado"
+
+about: >
+  Breve resumo sobre você, seus objetivos e o que você faz de melhor. 
+  Fale sobre suas principais competências e paixões profissionais.
+
+experiences:
+  - role: "Cargo Atual/Anterior"
+    company: "Nome da Empresa"
+    period: "Jan 2022 - Presente"
+    description: "Descrição das suas responsabilidades e conquistas nesta empresa."
+  - role: "Cargo Anterior"
+    company: "Empresa Antiga"
+    period: "Jan 2020 - Dez 2021"
+    description: "Descrição das suas responsabilidades e conquistas nesta empresa."
+
+education:
+  - degree: "Sua Graduação"
+    institution: "Nome da Instituição"
+    year: "2019 - 2023"
+  - degree: "Certificação / Curso Extra"
+    institution: "Plataforma / Escola"
+    year: "2021"
+
+projects:
+  - name: "Projeto 1"
+    description: "Uma breve descrição do que o projeto faz e tecnologias usadas."
+    link: "https://github.com/seu-usuario/projeto-1"
+  - name: "Projeto 2"
+    description: "Outro projeto interessante que você desenvolveu."
+    link: "https://github.com/seu-usuario/projeto-2"
+
+skills:
+  - "Python"
+  - "Flask"
+  - "HTML/CSS"
+  - "JavaScript"
+  - "Git"
+  - "SQL"
