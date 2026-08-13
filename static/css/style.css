@@ -59,6 +59,7 @@ section {
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    text-align: justify;
 }
 
 h2 {
@@ -76,6 +77,18 @@ h2 {
     font-weight: bold;
     color: var(--secondary-color);
     font-size: 0.9rem;
+}
+
+.skill-group {
+    margin-bottom: 20px;
+}
+
+.skill-group h3 {
+    font-size: 1.1rem;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    display: inline-block;
 }
 
 .skill-tags {

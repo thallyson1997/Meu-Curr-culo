@@ -1,33 +1,41 @@
 personal_info:
-  name: "Seu Nome Completo"
-  title: "Sua Profissão / Cargo"
-  email: "seu.email@exemplo.com"
-  phone: "(00) 00000-0000"
-  linkedin: "https://linkedin.com/in/seu-usuario"
-  github: "https://github.com/seu-usuario"
-  location: "Cidade, Estado"
+  name: "Thallyson Gabriel Martins Correia Fontenele"
+  title: "Analista e Cientista de Dados"
+  email: "thallyson.martins11@gmail.com"
+  phone: "(98) 984707679"
+  linkedin: "https://www.linkedin.com/in/thallyson-gabriel-55493b13b/"
+  github: "https://github.com/thallyson1997"
+  location: "Maranhão, Brasil"
 
 about: >
-  Breve resumo sobre você, seus objetivos e o que você faz de melhor. 
-  Fale sobre suas principais competências e paixões profissionais.
+  Profissional da área de Análise e Ciência de Dados, com formação em Engenharia da Computação e Ciência e Tecnologia pela UFMA. Experiência em análise de dados, Business Intelligence, automação de processos e desenvolvimento de soluções orientadas a dados, utilizando Python, SQL, Power BI, Tableau, Looker Studio, Pandas e Scikit-learn. Atuação com tratamento e visualização de dados, ETL, APIs REST, Machine Learning e desenvolvimento de dashboards para apoio à tomada de decisão. Experiência em projetos acadêmicos e profissionais, incluindo desenvolvimento de soluções em bioinformática e participação no MaraGo, aplicativo de turismo gamificado vencedor do Hackathon Trilhas 2025.
+
 
 experiences:
-  - role: "Cargo Atual/Anterior"
-    company: "Nome da Empresa"
-    period: "Jan 2022 - Presente"
-    description: "Descrição das suas responsabilidades e conquistas nesta empresa."
-  - role: "Cargo Anterior"
-    company: "Empresa Antiga"
-    period: "Jan 2020 - Dez 2021"
-    description: "Descrição das suas responsabilidades e conquistas nesta empresa."
+  - role: "Estagiário em Ciência de Dados e Automação"
+    company: "Secretaria de Estado de Administração Penitenciária do Maranhão (SEAP-MA)"
+    period: "Out 2025 - Junho 2026"
+    description: "Atuação na Supervisão de Fiscalização e Controle da Alimentação, com foco no monitoramento e análise de dados relacionados ao fornecimento de refeições nas unidades penitenciárias. Desenvolvimento do SGMRP (Sistema de Gerenciamento de Mapas de Refeições Penitenciário), uma plataforma web para centralização e gerenciamento das informações de fornecimento de refeições. Desenvolvimento de soluções utilizando Python, Flask, HTML, CSS, JavaScript, SQLite e SQLAlchemy, além da integração com bases de dados externas da SEAP. Automação de processos, tratamento e validação de dados, elaboração de relatórios e desenvolvimento de ferramentas para apoiar a fiscalização e a tomada de decisões."
+  - role: "Analista de Dados e Gerenciamento de Redes Sociais"
+    company: "Artistas em Rede"
+    period: "Set 2023 - Mai 2024"
+    description: "Atuação na análise de métricas de redes sociais, utilizando dados de alcance, engajamento e desempenho para apoiar decisões estratégicas. Desenvolvimento de relatórios e análises com Excel, Google Sheets e Meta Business Suite, além da utilização de Python e técnicas de Web Scraping para coleta e organização de dados. Participação na estruturação de indicadores, análise de tendências e geração de insights para melhoria das estratégias de conteúdo e desempenho digital."
 
 education:
-  - degree: "Sua Graduação"
-    institution: "Nome da Instituição"
-    year: "2019 - 2023"
-  - degree: "Certificação / Curso Extra"
-    institution: "Plataforma / Escola"
-    year: "2021"
+  - degree: "Engenharia da Computação"
+    institution: "Universidade Federal do Maranhão (UFMA)"
+    year: "2026"
+  - degree: "Interdisciplinar em Ciência e Tecnologia"
+    institution: "Universidade Federal do Maranhão (UFMA)"
+    year: "2022"
+
+certifications:
+  - name: "Nome do Curso / Certificado"
+    institution: "Plataforma (ex: Coursera, Udemy)"
+    year: "2024"
+  - name: "Outro Certificado Importante"
+    institution: "Escola de TI"
+    year: "2023"
 
 projects:
   - name: "Projeto 1"
@@ -37,10 +45,14 @@ projects:
     description: "Outro projeto interessante que você desenvolveu."
     link: "https://github.com/seu-usuario/projeto-2"
 
-skills:
-  - "Python"
-  - "Flask"
-  - "HTML/CSS"
-  - "JavaScript"
-  - "Git"
-  - "SQL"
+skills_groups:
+  - category: "Programação"
+    list: ["Python", "R", "Javascript", "Flask", "FastAPI", "HTML/CSS", "Git"]
+  - category: "Dados"
+    list: ["Pandas", "NumPy", "Scikit-learn", "SQL", "PostgreSQL", "Jupyter Notebook", "APIs REST", "ETL", "Processamento de Linguagem Natural (NLP)", "Machine Learning", "Deep Learning"]
+  - category: "BI"
+    list: ["Power BI", "Tableau", "Looker Studio", "Excel", "Google Sheets"]
+  - category: "Bioinformática"
+    list: ["Análise de Sequências", "InterPro", "Biopython"]
+  - category: "Pacote Office"
+    list: ["Excel", "Word", "PowerPoint"]
